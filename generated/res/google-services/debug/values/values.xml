@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">519823540296-oqi6mfeusrvoq5tfge3a59si0gf0aihk.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">519823540296</string>
+    <string name="google_api_key" translatable="false">AIzaSyC967WuD_i2D9z9j_5fpEAe1MUhzk-Ml4A</string>
+    <string name="google_app_id" translatable="false">1:519823540296:android:2dc88391851ffa3ead987d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC967WuD_i2D9z9j_5fpEAe1MUhzk-Ml4A</string>
+    <string name="google_storage_bucket" translatable="false">cryptowallet-372f1.appspot.com</string>
+    <string name="project_id" translatable="false">cryptowallet-372f1</string>
+</resources>
